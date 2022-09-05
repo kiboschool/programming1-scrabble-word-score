@@ -1,4 +1,4 @@
-# Scrabble Word Score: Instructions  
+# Scrabble Word Score: Instructions
 
 Scrabble is a popular spelling board game. Players get points for spelling words, based on the value of the letters in the word. In this task, you won't build all of scrabble - just a part of the scoring. If you're not familiar with Scrabble, see the "Scrabble scoring" section below for an explanation.
 
@@ -90,3 +90,10 @@ q  + u + i + x + o + t + i + c
 ```
 
 In the actual game of Scrabble, there's also rules about where the word is played on the board, but we're skipping those for this assignment.
+
+## Testing
+
+First, test your program yourself in the terminal. (Try "apple" and "quixotic"
+to start, plus some other scrabble words where you know the correct score)
+
+Then, run the automated tests to confirm that your solution works. Run `python3 test.py` to run the tests.
